@@ -8,6 +8,6 @@ sky:
     password: 123456
   alioss:
     endpoint: oss-cn-hongkong.aliyuncs.com
-    access-key-id: LTAI5tQ9U14YuJ9T3z66RUqx
-    access-key-secret: QB6mPTrwocleWGtxytpv8Z2cRx25kz
+    access-key-id:
+    access-key-secret:
     bucket-name: sky-itcast-mista
