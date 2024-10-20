@@ -1,7 +1,7 @@
 delivery-website 
 ---
 
-![Screenshot from 2024-10-20 21-05-26](https://github.com/user-attachments/assets/6d7dfa1b-7163-4f90-926a-c07d0899903f)
+![dd6efe8bd17dd3d3a8b513d968aaadbd](https://github.com/user-attachments/assets/1d07de11-dbb6-4ac4-acd8-0d8970628e70)
 
 
 外送網站後台
